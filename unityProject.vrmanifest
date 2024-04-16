@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrarxakatonugorsk.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\KMD\\Xakaton_Ugorsk\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR AR Xakaton Ugorsk [Testing]"
+        }
+      }
+    }
+  ]
+}
